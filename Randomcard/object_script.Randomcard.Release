@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\card.o
+./release\cardimage.o
+./release\allbody.o
+./release\action.o
+./release\moc_mainwindow.o
+./release\moc_card.o
+./release\moc_cardimage.o
+./release\moc_allbody.o
+./release\moc_action.o
+);
